@@ -18,19 +18,15 @@ Thanks to @SandboxEscaper for releasing the exploit code (.cpp) in  github
 * FOS Team : [Fools of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
 
  ## Support !
-  Email address: umarfarookmech712@gmail.com  or pingus@foolsofsecurity.com
-
-
-  Youtube: [Fools Of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
-
-  Website: [Fools Of Security Community](https://foolsofsecurity.com)
+  Email address: umarfarookmech712@gmail.com  or pingus@foolsofsecurity.com <br/>
+  Youtube: [Fools Of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ) <br/>
+  Website: [Fools Of Security Community](https://foolsofsecurity.com) <br/>
 
 
  ## Reference 
-
-- [polarbearrepo]( https://github.com/SandboxEscaper/polarbearrepo)
-- [ZwSetInformationFile](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/wdm/nf-wdm-zwsetinformationfile)
-
-- [FileLinkInformation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/ntifs/ns-ntifs-_file_link_information)
+ 
+* [polarbearrepo]( https://github.com/SandboxEscaper/polarbearrepo)
+* [ZwSetInformationFile](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/wdm/nf-wdm-zwsetinformationfile)
+* [FileLinkInformation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/ntifs/ns-ntifs-_file_link_information)
      
   
