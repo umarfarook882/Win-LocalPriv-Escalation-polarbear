@@ -1,4 +1,4 @@
-### Windows Local Privilege Escalation using  Task Scheduler (schtasks.exe) - O Day Exploit
+### Windows Local Privilege Escalation using  Task Scheduler (schtasks.exe) - 0 Day Exploit
 
 
 Thanks to @SandboxEscaper for releasing the exploit code (.cpp) in  github
@@ -18,9 +18,10 @@ Thanks to @SandboxEscaper for releasing the exploit code (.cpp) in  github
 * FOS Team : [Fools of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
 
  ## Support !
-  Email address: umarfarookmech712@gmail.com  or pingus@foolsofsecurity.com <br/>
-  Youtube: [Fools Of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ) <br/>
-  Website: [Fools Of Security Community](https://foolsofsecurity.com) <br/>
+ 
+ Email address: umarfarookmech712@gmail.com  or pingus@foolsofsecurity.com <br/>
+ Youtube: [Fools Of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ) <br/>
+ Website: [Fools Of Security Community](https://foolsofsecurity.com) <br/>
 
 
  ## Reference 
@@ -28,5 +29,5 @@ Thanks to @SandboxEscaper for releasing the exploit code (.cpp) in  github
 * [polarbearrepo]( https://github.com/SandboxEscaper/polarbearrepo)
 * [ZwSetInformationFile](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/wdm/nf-wdm-zwsetinformationfile)
 * [FileLinkInformation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/ntifs/ns-ntifs-_file_link_information)
-     
+
   
